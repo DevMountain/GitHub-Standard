@@ -23,6 +23,17 @@ This is where the basic instructions will go. Use a bullet list format. If multi
 * Do Y:
   * Do this to accomplish Y.
   * Do this to accomplish Y.
+  * Use this code to accomplish Y:
+    * <details>
+
+      <summary> <code> Code Snippet Title </code> </summary>
+
+      ```js
+      /*
+        You can put code snippets in bullet lists as well. However make sure the code snippet is on it's own indentation level. Otherwise your bullet list will become double spaced.
+      */
+      ```
+      </details>
 * Do Z.
 
 <details>
