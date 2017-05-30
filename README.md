@@ -41,7 +41,17 @@ Always include a hidden code solution for each step. This can either be the enti
 
 </details>
 
+<br />
+
 Include a screenshot or giphy of the completed step in action.
+
+## Step 2
+
+Repeat the format of step 1.
+
+## Step 3
+
+Repeat the format of step 1.
 
 ## Contributions
 
