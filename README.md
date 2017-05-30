@@ -16,7 +16,7 @@ This is where the summary of the step will go. Explain what the student will be 
 
 ### Instructions
 
-This is where the basic instructions will go. Use a bullet list format. If multiple objectives are need to complete a task in the step, use a nested bullet format. Try to start a bullet item with an action/verb. If the bullet is a sentence, end it with a period.
+This is where the basic instructions will go. Use a bullet list format. If multiple objectives are need to complete a task in the step, use a nested bullet format. Try to start a bullet item with an action/verb. If the bullet is a sentence, end it with a period. If you are building an afternoon section, include a `Detailed Instructions` section for every step. If you are building a mini project, you do not have to include a `Detailed Instructions` section because an instructor will be able to explain on a more detailed level.
 
 * Open `path/to/file`.
 * Do X.
