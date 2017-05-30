@@ -2,13 +2,13 @@
 
 # Project Summary
 
-This is where the summary of the project will go. Explain what the student will doing in order to complete the project. Also explain what the project is.
+This is where the summary of the project will go. Explain what the student will be doing in order to complete the project. Also explain what the project is.
 
 Include a screenshot of the finished project's landing page here.
 
 ( Optional: If the project can run on GH-Pages, include that link here )
 
-## Step #
+## Step 1
 
 ### Summary
 
