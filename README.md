@@ -31,7 +31,7 @@ This is where the basic instructions will go. Use a bullet list format. If multi
 
 <br />
 
-This is where the detailed instructions will go. Break down the bullet list one by one and go into detail and how to complete the item. Use a combination of code snippets/pictures if you feel it will help explain the item. Also include why the student is doing the item or how it modifies the project. The more detail the better.
+This is where the detailed instructions will go. Break down the bullet list one by one and go into detail on how to complete the item. Use a combination of code snippets/pictures if you feel it will help explain the item. Also include why the student is doing the item or how it modifies the project. The more detail the better. Since the Detailed Instructions is hidden by default don't worry about how long this section is.
 
 </details>
 
