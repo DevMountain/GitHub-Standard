@@ -25,6 +25,14 @@ This is where the basic instructions will go. Use a bullet list format. If multi
   * Do this to accomplish Y.
 * Do Z.
 
+<details>
+
+<summary> Detailed Instructions </summary>
+
+This is where the detailed instructions will go. Break down the bullet list one by one and go into detail and how to complete the item. Use a combination of code snippets/pictures if you feel it will help explain the item. Also include why the student is doing the item or how it modifies the project. The more detail the better.
+
+</details>
+
 ### Solution
 
 <details>
