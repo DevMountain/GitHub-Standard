@@ -74,6 +74,14 @@ Repeat the format of step 1.
 
 Repeat the format of step 1.
 
+## Black Diamond
+
+Include a couple challenges to push the project farther. This can just be a bulleted list of objectives to hit. You do not have to supply a solution or any instructions for this area.
+
+* Modify the project to do Y.
+* Add local storage to the project.
+* Build a back end for the front end.
+
 ## Contributions
 
 If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
