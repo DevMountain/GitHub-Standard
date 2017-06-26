@@ -8,6 +8,14 @@ Include a screenshot of the finished project's landing page here.
 
 ( Optional: If the project can run on GH-Pages, include that link here )
 
+## Setup
+
+* Clone and fork the repository.
+* `cd` into the project directory.
+* Run `npm install` ( if the student needs to, if they don't: don't include this bullet )
+* Include other steps necessary before starting step 1
+
+
 ## Step 1
 
 ### Summary
