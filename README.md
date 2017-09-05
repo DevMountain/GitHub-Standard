@@ -13,7 +13,6 @@ This is where the summary of the project will go. Explain what the student will 
 * Run `npm install` ( if the student needs to, if they don't: don't include this bullet )
 * Include other steps necessary before starting step 1
 
-
 ## Step 1
 
 ### Summary
@@ -73,7 +72,7 @@ Always include a hidden code solution for each step. This can either be the enti
 
 <br />
 
-If you are able to provide a picture of how the front-end changed, include a screenshot or giphy after code solutions. Providing screenshots and/or giphies help the projects become more digestible for students.
+If you are able to provide a picture of how the front-end changed, include a screenshot or giphy after code solutions. Providing screenshots and/or giphies help the project become more digestible for students.
 
 ## Step 2
 
@@ -85,11 +84,13 @@ Repeat the format of step 1.
 
 ## Black Diamond
 
-Include a couple challenges to push the project farther. This can just be a bulleted list of objectives to hit. You do not have to supply a solution or any instructions for this area.
+Include a couple challenges to push the project farther. This can just be a bulleted list of objectives to hit. You do not have to supply a solution or any instructions for this area. Black diamonds are not required to follow what we've already taught our students.
 
 * Modify the project to do Y.
 * Add local storage to the project.
 * Build a back end for the front end.
+
+After the Black Diamond section, include the `Contributions` and `Copyright` sections, and then include the DevMountain logo at the very bottom.
 
 ## Contributions
 
