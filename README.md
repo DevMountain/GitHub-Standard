@@ -6,6 +6,14 @@ This is where the summary of the project will go. Explain what the student will 
 
 ( Optional: Include a screenshot of the finished project's landing page here OR if the project can run on GH-Pages, include that link here  )
 
+## Setup
+
+* Clone and fork the repository.
+* `cd` into the project directory.
+* Run `npm install` ( if the student needs to, if they don't: don't include this bullet )
+* Include other steps necessary before starting step 1
+
+
 ## Step 1
 
 ### Summary
@@ -74,6 +82,14 @@ Repeat the format of step 1.
 ## Step 3
 
 Repeat the format of step 1.
+
+## Black Diamond
+
+Include a couple challenges to push the project farther. This can just be a bulleted list of objectives to hit. You do not have to supply a solution or any instructions for this area.
+
+* Modify the project to do Y.
+* Add local storage to the project.
+* Build a back end for the front end.
 
 ## Contributions
 
