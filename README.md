@@ -4,19 +4,20 @@
 
 This is where the summary of the project will go. Explain what the student will be doing in order to complete the project. Also explain what the project is.
 
-Include a screenshot of the finished project's landing page here.
-
-( Optional: If the project can run on GH-Pages, include that link here )
+( Optional: Include a screenshot of the finished project's landing page here OR if the project can run on GH-Pages, include that link here  )
 
 ## Step 1
 
 ### Summary
 
-This is where the summary of the step will go. Explain what the student will be doing and how it modifies the project. Try to make steps that only edit one file, even if the step is super small. 
+This is where the summary of the step will go. Explain what the student will be doing and how it modifies the project. Try to make steps that only edit one file, even if the step is super small. The saller a step is, the less confusion there will be on the students end. This also helps students feel like they are making good progress, rather than spending up to an hour on one step.
 
 ### Instructions
 
-This is where the basic instructions will go. Use a bullet list format. If multiple objectives are need to complete a task in the step, use a nested bullet format. Try to start a bullet item with an action/verb. If the bullet is a sentence, end it with a period. If you are building an afternoon project, include a `Detailed Instructions` section for every step. If you are building a mini project, you do not have to include a `Detailed Instructions` section because an instructor will be able to explain on a more detailed level. Always start your bullet list by explaining what file the student should open.
+This is where the basic instructions will go. Use a bullet list format. If multiple objectives are need to complete a task in the step, use a nested bullet format. Try to start a bullet item with an action/verb. If the bullet is a sentence, end it with a period. 
+
+
+If you are building an afternoon project, include a `Detailed Instructions` section for every step. If you are building a mini project, you do not have to include a `Detailed Instructions` section because an instructor will be able to explain on a more detailed level. Always start your bullet list by explaining what file the student should open.
 
 * Open `path/to/file`.
 * Do X.
@@ -42,7 +43,7 @@ This is where the basic instructions will go. Use a bullet list format. If multi
 
 <br />
 
-This is where the detailed instructions will go. Break down the bullet list one by one and go into detail on how to complete the item. Use a combination of code snippets/pictures if you feel it will help explain the item. Also include why the student is doing the item or how it modifies the project. The more detail the better. Since the Detailed Instructions is hidden by default don't worry about how long this section is.
+This is where the detailed instructions will go. Break down the bullet list one by one and go into detail on how to complete the item. Use a combination of text/code snippets/pictures to give the most amount of detail possible. Also include why the student is doing the item or how it modifies the project. The more detail the better. Since the Detailed Instructions is hidden by default don't worry about how long this section is.
 
 </details>
 
@@ -64,7 +65,7 @@ Always include a hidden code solution for each step. This can either be the enti
 
 <br />
 
-Include a screenshot or giphy of the completed step in action.
+If you are able to provide a picture of how the front-end changed, include a screenshot or giphy after code solutions. Providing screenshots and/or giphies help the projects become more digestible for students.
 
 ## Step 2
 
