@@ -79,7 +79,7 @@ Always include a hidden code solution for each step. This can either be the enti
 
 <br />
 
-Provide a screenshot or a giphy show casing the functionality / layout change(s). Providing these screenshots / giphies also help break up the text and provide visual checkpoints for the student. This helps make the project more digestible.
+Provide a screenshot or a giphy showcasing the functionality / layout change(s). Providing these screenshots / giphies also help break up the text and provide visual checkpoints for the student. In other words, this helps make the project more digestible.
 
 ## Step 2
 
