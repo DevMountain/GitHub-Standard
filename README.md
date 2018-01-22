@@ -8,7 +8,7 @@ This is where the summary of the project will go. Explain what the student will 
 
 <a href="#">Click Me!</a>
 
-Please provide live examples to projects you create. This provides more advanced students a way to try to complete the project without reading any instructions and other students a resource to look at it if they aren't understanding the instructions.
+Please provide live examples to projects you create. This provides more advanced students a way to try to complete the project without reading any instructions and other students a resource to look at if they aren't understanding the instructions.
 
 If a live example is provided, put a screenshot of the landing page below the `Click Me!` link.
 
@@ -19,7 +19,7 @@ If a live example is provided, put a screenshot of the landing page below the `C
 * Run `npm install`. ( If necessary )
 * Run `nodemon` OR `npm start` etc. ( If necessary )
 
-Provide a screenshot of what a terminal should look like on a successful startup OR a screenshot of what the landing page should look like after spinning up a development server.
+Provide a screenshot of what a terminal should look like on a successful startup OR a screenshot of what the landing page should look like after spinning up a development server. This provides a visual comparison that they setup the project correctly.
 
 ## Step 1
 
