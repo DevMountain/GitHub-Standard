@@ -31,7 +31,7 @@ This is where the summary of the step will go. Explain what the student will be 
 
 This is where the basic instructions will go. Use a bullet list format. If multiple objectives are need to complete a task in the step, use a nested bullet format. Start a bullet item with an action/verb. If the bullet is a sentence, end it with a period. 
 
-If you are building an afternoon project, include a `Detailed Instructions` section for every step. If you are building a mini project, you do not have to include a `Detailed Instructions` section because an instructor will be able to explain on a more detailed level. Always start your bullet list by explaining what file the student should open.
+If you are building an afternoon project, include a `Detailed Instructions` section for every step. If you are building a mini project, you do not have to include a `Detailed Instructions` section because an instructor will be able to explain on a more detailed level. Always start your bullet list by explaining what file the student should open if applicable to the project.
 
 * Open `path/to/file`.
 * Do X.
@@ -57,7 +57,7 @@ If you are building an afternoon project, include a `Detailed Instructions` sect
 
 <br />
 
-This is where the detailed instructions will go. Break down the bullet list one by one and go into detail on how to complete the item. Use a combination of text/code snippets/pictures to give the most amount of detail possible. Also include why the student is doing the item or how it modifies the project. The more detail the better. Since the Detailed Instructions is hidden by default don't worry about how long this section is.
+This is where the detailed instructions will go. Break down the bullet list one by one and go into detail on how to complete the item. Use a combination of text/code snippets/pictures to give the most amount of detail possible. Also include why the student is doing the item or how it modifies the project. The more detail the better. Since the Detailed Instructions is hidden by default don't worry about how long this section is. <b>This is not a copy of the instructions section, avoid bullet list format in here.</b>
 
 </details>
 
