@@ -25,12 +25,11 @@ Provide a screenshot of what a terminal should look like on a successful startup
 
 ### Summary
 
-This is where the summary of the step will go. Explain what the student will be doing and how it modifies the project. Try to make steps that only edit one file, even if the step is super small. The saller a step is, the less confusion there will be on the students end. This also helps students feel like they are making good progress, rather than spending up to an hour on one step.
+This is where the summary of the step will go. Explain what the student will be doing and how it modifies the project if necessary. Try to make steps that only edit one file, even if the step is super small. The saller a step is, the less confusion there will be on the students end. This also helps students feel like they are making good progress, rather than spending up to an hour on one step.
 
 ### Instructions
 
-This is where the basic instructions will go. Use a bullet list format. If multiple objectives are need to complete a task in the step, use a nested bullet format. Try to start a bullet item with an action/verb. If the bullet is a sentence, end it with a period. 
-
+This is where the basic instructions will go. Use a bullet list format. If multiple objectives are need to complete a task in the step, use a nested bullet format. Start a bullet item with an action/verb. If the bullet is a sentence, end it with a period. 
 
 If you are building an afternoon project, include a `Detailed Instructions` section for every step. If you are building a mini project, you do not have to include a `Detailed Instructions` section because an instructor will be able to explain on a more detailed level. Always start your bullet list by explaining what file the student should open.
 
