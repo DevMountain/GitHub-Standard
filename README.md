@@ -79,7 +79,7 @@ Always include a hidden code solution for each step. This can either be the enti
 
 <br />
 
-If you are able to provide a picture of how the front-end changed, include a screenshot or giphy after code solutions. Providing screenshots and/or giphies help the project become more digestible for students.
+Provide a screenshot or a giphy show casing the functionality / layout change(s). Providing these screenshots / giphies also help break up the text and provide visual checkpoints for the student. This helps make the project more digestible.
 
 ## Step 2
 
